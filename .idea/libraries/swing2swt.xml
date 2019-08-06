@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="swing2swt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/opTask1/swing2swt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
